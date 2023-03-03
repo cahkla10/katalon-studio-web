@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PLS002 - User want to sort by products name ascending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da6f93ec-0b14-45a1-b020-1a2f489470d7</testCaseGuid>
+</TestCaseEntity>
