@@ -22,7 +22,7 @@ This automation created using Katalon Studio version 8.5.5 and Page Object Model
   |--Hook
 ```
 
-## Codeless web automation testing without Cucumber
+## Codeless web automation testing with Cucumber
 ```
 |--Test Cases
   |--Cucumber
